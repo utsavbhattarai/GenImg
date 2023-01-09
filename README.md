@@ -1,7 +1,7 @@
 # GenImg
 Generative Images
 
-# Image studies using diffusion models. 
+# Image studies using CLIP guided diffusion models. 
 
 <picture>
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/intro/image1.png" width="256" height="256">   

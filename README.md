@@ -29,8 +29,6 @@ Generative Images
 
 
 
-## Disco diffusion: 
-
 * Landscape image studies:
 
 <picture>
@@ -93,8 +91,6 @@ Generative Images
 
 ---
 
-## Disco diffusion & Stable diffusion: 
-
 <picture>
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/SD/shapes/image1.png" width="256" height="256">
 </picture>
@@ -113,6 +109,7 @@ Generative Images
 
 
 
+
 --- 
  
 <picture>
@@ -123,9 +120,9 @@ Generative Images
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/SD/shapes/image6.png" width="256" height="256">
 </picture>
 
---- 
+* modifiers: "clip_guidance_scale": "[10000]*1000",     "tv_scale": 59000,     "range_scale": 0,
 
-## Stable diffusion: 
+--- 
 
 <picture>
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/SD/monastery/image1.png" width="256" height="256">
@@ -150,5 +147,7 @@ Generative Images
 <picture>
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/SD/monastery/image6.png" width="256" height="256">
 </picture>
+
+* modifiers: "clip_guidance_scale": "[10000]*1000",     "tv_scale": 59000,     "range_scale": 0, monastery
 
 ---

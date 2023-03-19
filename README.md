@@ -1,7 +1,76 @@
 # GenImg
 Generative Images
 
-# Image studies using CLIP guided diffusion models. 
+# Image studies using various CLIP guided diffusion models. 
+---
+* Space dreams:
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space1.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space2.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space3.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space4.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space5.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/space/space6.jpg" width="256" height="256">   
+</picture>
+
+
+---
+* Planet dreams:
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet1.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet2.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet5.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet6.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet3.jpg" width="256" height="320">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/planets/planet4.jpg" width="256" height="320">   
+</picture>
+
+---
+* Landscape dreams:
+
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape1.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape2.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape3.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape4.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape5.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/landscape/landscape6.jpg" width="256" height="256">   
+</picture>
+
+*leonardoai*
+
+---
+* Landscape image studies:
 
 <picture>
   <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/intro/image1.png" width="256" height="256">   

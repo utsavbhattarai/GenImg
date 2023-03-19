@@ -55,6 +55,37 @@ Generative Images
 </picture>
 
 ---
+
+* Abstract Structure
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure1.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure2.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure3.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure4.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure5.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure6.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure7.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure8.jpg" width="256" height="256">   
+</picture>
+<picture>
+  <img alt="images" src="https://github.com/utsavbhattarai/GenImg/blob/main/images/leonardoai/structure/structure9.jpg" width="256" height="256">   
+</picture>
+
+---
 * Landscape dreams:
 
 <picture>
